@@ -1,0 +1,31 @@
+h1, p, input, small{
+    font-family: 'Ubuntu', sans-serif;
+}
+#speechContainer{
+    margin:30px;
+    text-align: center;
+}
+#submitButton{
+    background-color: #0191FE;
+    color: white;
+    border-radius: 5px;
+    border: none;
+    padding: 10px 30px;
+}
+#submitButton:hover{
+    cursor: pointer;
+}
+#speechTranscriptContainer{
+    margin-top: 20px;
+}
+#speechText{
+    font-size: 17px;
+    text-align: center;
+}
+#footer{
+    position: fixed;
+    left: 0;
+    bottom: 0;
+    width: 100%;
+    text-align: center;
+}
